@@ -32,7 +32,7 @@ email = args.email
 domain = args.domain
 
 
-print "\nInSpy {}".format(parser.version)
+print "(nInSpy)".format(parser.version)
 
 try:
 	if domain and not email: #search hunterio for email format
